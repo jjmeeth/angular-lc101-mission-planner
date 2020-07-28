@@ -1,4 +1,11 @@
 .box {
     display: flex;
     padding: 10px;
+    border-radius: 1px;
  }
+
+ h3 {
+     color: blueviolet;
+     text-decoration: underline;
+ }
+
